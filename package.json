@@ -6,6 +6,7 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
+	"types": "./type/index.d.ts",
 	"scripts": {
 		"build": "node build/build.cjs",
 		"switch": "node build/switch.mjs",
