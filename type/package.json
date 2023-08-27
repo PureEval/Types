@@ -1,0 +1,14 @@
+{
+  "name": "pureeval-types",
+  "version": "0.1.0",
+  "description": "Type declarations for PureEval",
+  "directories": {
+    "test": "test"
+  },
+  "author": "PureEval Dev",
+  "license": "GPL",
+  "types": "./index.d.ts",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}

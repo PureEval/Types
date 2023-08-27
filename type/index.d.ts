@@ -1,0 +1,1 @@
+export { curry, uncurry } from './src/curry'
